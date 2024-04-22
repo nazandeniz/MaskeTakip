@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskeTakip", "ConsoleApp5\MaskeTakip.csproj", "{A67CB74B-D368-4F34-AFB0-11A1525DABF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{60AC07CE-3C85-46DF-90DC-3A80B6EB8998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{B4556113-4C4F-4E0E-AF15-E2B87EBC9223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67CB74B-D368-4F34-AFB0-11A1525DABF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67CB74B-D368-4F34-AFB0-11A1525DABF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67CB74B-D368-4F34-AFB0-11A1525DABF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67CB74B-D368-4F34-AFB0-11A1525DABF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AC07CE-3C85-46DF-90DC-3A80B6EB8998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AC07CE-3C85-46DF-90DC-3A80B6EB8998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AC07CE-3C85-46DF-90DC-3A80B6EB8998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AC07CE-3C85-46DF-90DC-3A80B6EB8998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4556113-4C4F-4E0E-AF15-E2B87EBC9223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4556113-4C4F-4E0E-AF15-E2B87EBC9223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4556113-4C4F-4E0E-AF15-E2B87EBC9223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4556113-4C4F-4E0E-AF15-E2B87EBC9223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1CE2F64-0718-4B84-92D9-361CC2E803E3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MaskeTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60AC07CE-3C85-46DF-90DC-3A80B6EB8998}|Entities\\Entities.csproj|c:\\users\\admin\\source\\repos\\masketakip\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AC07CE-3C85-46DF-90DC-3A80B6EB8998}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67CB74B-D368-4F34-AFB0-11A1525DABF4}|ConsoleApp5\\MaskeTakip.csproj|C:\\Users\\Admin\\source\\repos\\MaskeTakip\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67CB74B-D368-4F34-AFB0-11A1525DABF4}|ConsoleApp5\\MaskeTakip.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4556113-4C4F-4E0E-AF15-E2B87EBC9223}|Business\\Business.csproj|c:\\users\\admin\\source\\repos\\masketakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4556113-4C4F-4E0E-AF15-E2B87EBC9223}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:52:02.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:51:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MaskeTakip\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MaskeTakip\\ConsoleApp5\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp5\\Program.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:51:12.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
